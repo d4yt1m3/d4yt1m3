@@ -13,4 +13,4 @@
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d4yt1m3&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=d4yt1m3&theme=github_dark)
 
-![Skills](https://skillicons.dev/icons?i=py,pytorch,vscode)
+![Skills](https://skillicons.dev/icons?i=apple,linux,docker,bash,c,cpp,py,pytorch,vscode,ps)

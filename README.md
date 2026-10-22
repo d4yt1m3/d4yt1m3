@@ -9,3 +9,9 @@
 💻 Working with **Python, C/C++ and Linux**
 
 💬 Always curious, always learning.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4yt1m3&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d4yt1m3&layout=compact&theme=tokyonight)
+
+![Skills](https://skillicons.dev/icons?i=py,pytorch,apple,ubuntu,docker,vscode,postgres,latex,ps)
